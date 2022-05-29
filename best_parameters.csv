@@ -1,0 +1,4 @@
+,Name,best_param
+0,Gradient_boosting,"{'gradientboostingregressor__learning_rate': 0.1, 'gradientboostingregressor__max_depth': 3, 'gradientboostingregressor__max_features': 7, 'gradientboostingregressor__n_estimators': 69, 'standardscaler': None}"
+1,Random_forest,"{'randomforestregressor__bootstrap': True, 'randomforestregressor__max_depth': 80, 'randomforestregressor__min_samples_leaf': 3, 'randomforestregressor__n_estimators': 33, 'standardscaler': StandardScaler()}"
+2,Linear_regression,{'selectkbest__k': 6}
